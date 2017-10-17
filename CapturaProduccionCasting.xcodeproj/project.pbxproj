@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					2900210B1F9696B30095D248 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = BJ4BA88X8B;
+						DevelopmentTeam = RP7X88BCQ9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,7 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BJ4BA88X8B;
+				DEVELOPMENT_TEAM = RP7X88BCQ9;
 				INFOPLIST_FILE = CapturaProduccionCasting/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KMX.CapturaProduccionCasting;
@@ -276,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BJ4BA88X8B;
+				DEVELOPMENT_TEAM = RP7X88BCQ9;
 				INFOPLIST_FILE = CapturaProduccionCasting/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KMX.CapturaProduccionCasting;
